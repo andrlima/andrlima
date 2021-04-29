@@ -1,7 +1,9 @@
 ### Hi there 👋
 
 <h2> Minhas habilidades </h2>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">
+
+<a href = '<img src: <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">' </a>
+
 <!--
 **andrlima/andrlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
