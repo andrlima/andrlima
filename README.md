@@ -2,7 +2,7 @@
 
 <h2> Minhas habilidades </h2>
 
-<img src = '<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css">' >
+<img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" >
 
 <!--
 **andrlima/andrlima** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
