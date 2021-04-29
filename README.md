@@ -2,7 +2,7 @@
 
 
 
-<h3> Minhas habilidades </h3>
+<h3> Minhas poucas habilidades </h3>
 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt = "Angula" width="40" height="40" style="max-width:100%;"></img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "Java" width="40" height="40" style="max-width:100%;" /></img>
