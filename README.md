@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<h2> Minhas habilidades </h2>
+
+
+<h3> Minhas habilidades </h3>
 
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt = "Angula" width="40" height="40" style="max-width:100%;"></img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt = "Java" width="40" height="40" style="max-width:100%;" /></img>
@@ -18,6 +20,9 @@
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt = "Jquery" width="40" height="40" style="max-width:100%;" /></img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt = "R" width="40" height="40" style="max-width:100%;" /></img>
 <img src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt = "Python" width="40" height="40" style="max-width:100%;" /></img>
+
+
+
 
 
 <!--
