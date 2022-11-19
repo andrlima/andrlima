@@ -1,29 +1,25 @@
 
 <p align ="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/andrlima/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Ol&aacute;&#44;%20Visitante&#33;&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=28&pause=10000" />
     </a>
 </p>
 
 <p align ="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/andrlima/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Seja%20bem%20vindo%20ao%20meu%20Git&#33;&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=28&pause=10000" />
     </a>
 </p>
 
 <p align ="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/andrlima/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Eu%20me%20chamo%20L&#233;o%20Ara&#250;jo&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=28&pause=10000" />
     </a>
 </p>
 
 <p align ="center">
-  <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
     <a href="https://github.com/andrlima/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=e%20sou%20um%20Programador%20junior&#33;&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=28&pause=10600" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=e%20sou%20um%20Programador%20junior&#33;&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=28&pause=10400" />
     </a>
 </p>
 <!-- --->
