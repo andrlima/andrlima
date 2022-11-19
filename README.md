@@ -34,7 +34,7 @@
       
 <p align ="center">
     <a href="https://github.com/andrlima/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Linguagens%20que%20utilizo&#46;&font=Fira%20Code&center=true&width=650&height=25&color=f75c7e&vCenter=true&size=28&pause=10000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Linguagens%20que%20utilizo&#46;&font=Fira%20Code&center=true&width=450&height=25&color=f75c7e&vCenter=true&size=28&pause=10000" />
     </a>
 </p>   
         <hr align="center">    
@@ -52,7 +52,7 @@
 <br>
 <p align ="center">
     <a href="https://github.com/andrlima/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Redes%20sociais&#46;&font=Fira%20Code&center=true&width=650&height=25&color=f75c7e&vCenter=true&size=28&pause=10000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Redes%20sociais&#46;&font=Fira%20Code&center=true&width=450&height=25&color=f75c7e&vCenter=true&size=28&pause=10000" />
     </a>
 </p> 
   
