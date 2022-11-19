@@ -19,7 +19,7 @@
 
 <p align ="center">
     <a href="https://github.com/andrlima/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=e%20sou%20um%20Programador%20junior&#33;&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=28&pause=6000" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=e%20sou%20um%20Programador%20junior&#33;&font=Fira%20Code&center=true&width=650&height=45&color=f75c7e&vCenter=true&size=28&pause=7500" />
     </a>
 </p>
 <!-- --->
